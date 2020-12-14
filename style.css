@@ -1,0 +1,24 @@
+h1{
+    color: red;
+}
+
+.Name{
+
+background-color: yellow;
+display:flex;
+justify-content: space-between;
+
+}
+
+.Games{
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+    
+}
+
+.Player{
+    background-color: yellow;
+}
